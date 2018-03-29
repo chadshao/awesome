@@ -1,6 +1,6 @@
 # awesome
 
-## awesome-awesome
+## igdata
 
 - [awesome-bigdata](<https://github.com/onurakpolat/awesome-bigdata>)
 - [awesome-streaming](<https://github.com/manuzhang/awesome-streaming>)
