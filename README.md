@@ -1,5 +1,9 @@
 # awesome
 
+## programming language
+
+- [awesome-erlang](<https://github.com/drobakowski/awesome-erlang>)
+
 ## bigdata
 
 - [awesome-bigdata](<https://github.com/onurakpolat/awesome-bigdata>)
